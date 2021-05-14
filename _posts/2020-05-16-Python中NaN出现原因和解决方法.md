@@ -58,3 +58,5 @@ new_data_imputed = my_imputer.fit_transform(new_data)
 df_new_data_imputed = pd.DataFrame(new_data_imputed,columns=new_data.columns)
 print (df_new_data_imputed)
 ```
+
+1
